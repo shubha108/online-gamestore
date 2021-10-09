@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "gamestore-online": {
+      "hosting": {
+        "online-gamestore": [
+          "gamestore-online"
+        ]
+      }
+    }
+  }
+}
