@@ -29,6 +29,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## working 
 
-<img   alt="projectgif1" src="https://raw.githubusercontent.com/shubha108/online-gamestore/main/gifs/projectgif1" />
+<img   alt="projectgif1" src="https://raw.githubusercontent.com/shubha108/online-gamestore/main/gifs/projectgif1.gif" />
 
-<img   alt="projectgif1" src="https://raw.githubusercontent.com/shubha108/online-gamestore/main/gifs/projectgif2" />
+<img   alt="projectgif1" src="https://raw.githubusercontent.com/shubha108/online-gamestore/main/gifs/projectgif2.gif" />
